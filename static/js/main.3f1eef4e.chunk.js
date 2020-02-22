@@ -1,2 +1,0 @@
-(this["webpackJsonpreact_movies-list-add-form"]=this["webpackJsonpreact_movies-list-add-form"]||[]).push([[0],{10:function(t,e,a){"use strict";a.r(e);var n=a(0),r=a.n(n),c=a(2),s=a.n(c);a(8),a(9);s.a.render(r.a.createElement((function(){return r.a.createElement("div",{className:"app"},r.a.createElement("h1",{className:!0},"Mate Hackaton"),r.a.createElement("button",{type:"button",className:"btn btn-primary"},"Start"))}),null),document.getElementById("root"))},3:function(t,e,a){t.exports=a(10)},9:function(t,e,a){}},[[3,1,2]]]);
-//# sourceMappingURL=main.3f1eef4e.chunk.js.map
